@@ -1,0 +1,47 @@
+@CHARSET "ISO-8859-1";
+.shvoip-brand{
+	padding-top:18px !important;
+}
+.shvoip-top-border{
+	background: #000;
+	padding:4px;
+}
+.shvoip-navbar{
+	background: none !important;
+	border: none !important;
+}
+
+.shvoip-border{
+	border: 1px solid #c3c7c9;
+	
+}
+.margin-top-menu{
+	margin-top:35px;
+}
+.shvoip-blue {
+	color: #0876ca !important;
+	font-weight: bold;
+}
+.shvoip-nav-align{
+	margin-right: 120px !important;
+	margin-top: 7px !important;
+}
+.shvoip-green-box{
+	background:#b5e51d !important;
+	border: 1px solid #b5e02c !important;
+	margin: 30px;
+	padding: 10px;
+	min-height: 350px;
+	position:relative;
+}
+.shvoip-green-box img{
+	position: absolute;
+	margin:auto 0;
+	bottom:20px;
+}
+@media (min-width: 768px) {
+  .navbar-nav li a {
+    padding-bottom: 6px !important;
+    padding-top:6px !important;
+  }
+}
